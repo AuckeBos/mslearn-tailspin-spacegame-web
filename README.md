@@ -1,4 +1,6 @@
 
+[![Build Status](https://dev.azure.com/frankgs/aucke-cdads/_apis/build/status/AuckeBos.mslearn-tailspin-spacegame-web?branchName=build-pipeline)](https://dev.azure.com/frankgs/aucke-cdads/_build/latest?definitionId=6&branchName=build-pipeline)
+
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
